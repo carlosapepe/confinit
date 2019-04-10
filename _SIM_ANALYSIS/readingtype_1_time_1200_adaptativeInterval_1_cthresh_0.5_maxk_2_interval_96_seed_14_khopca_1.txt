@@ -1,0 +1,302 @@
+Creating 54 nodes
+read 21.5,23 for 1
+read 24.5,20 for 2
+read 19.5,19 for 3
+read 22.5,15 for 4
+read 24.5,12 for 5
+read 19.5,12 for 6
+read 22.5,8 for 7
+read 24.5,4 for 8
+read 21.5,2 for 9
+read 19.5,5 for 10
+read 16.5,3 for 11
+read 13.5,1 for 12
+read 12.5,5 for 13
+read 8.5,6 for 14
+read 5.5,3 for 15
+read 1.5,2 for 16
+read 1.5,8 for 17
+read 5.5,10 for 18
+read 3.5,13 for 19
+read 0.5,17 for 20
+read 4.5,18 for 21
+read 1.5,23 for 22
+read 6,24 for 23
+read 1.5,30 for 24
+read 4.5,30 for 25
+read 7.5,31 for 26
+read 8.5,26 for 27
+read 10.5,31 for 28
+read 12.5,26 for 29
+read 13.5,31 for 30
+read 15.5,28 for 31
+read 17.5,31 for 32
+read 19.5,26 for 33
+read 21.5,30 for 34
+read 24.5,27 for 35
+read 26.5,31 for 36
+read 27.5,26 for 37
+read 30.5,31 for 38
+read 30.5,26 for 39
+read 33.5,28 for 40
+read 36.5,30 for 41
+read 39.5,30 for 42
+read 35.5,24 for 43
+read 40.5,22 for 44
+read 37.5,19 for 45
+read 34.5,16 for 46
+read 39.5,14 for 47
+read 35.5,10 for 48
+read 39.5,6 for 49
+read 38.5,1 for 50
+read 35.5,4 for 51
+read 31.5,6 for 52
+read 28.5,5 for 53
+read 26.5,2 for 54
+Creating devices
+Installing internet stack
+initialized with 5 colors 
+30,30
+Starting simulation for 1200s ...
+>> gonna start 0, 10
+time:0:quantity_of_sent_beacons:0:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:0:lone_nodes:54:deviation_of_clusters::amplitude_of_clusters::average_of_clusters::cluster_heads_without_loners:0:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:0,0,54
+XXX inconsistency found on node  16
+XXX inconsistency found on node  29
+XXX inconsistency found on node  30
+XXX inconsistency found on node  41
+time:10:quantity_of_sent_beacons:54:edges_inconsistency:17:added_edges:147:removed_edges:0:used_colors_without_loners:1:lone_nodes:4:deviation_of_clusters:0.708717:amplitude_of_clusters:2.856350:average_of_clusters:17.935013:cluster_heads_without_loners:13:inconsistent_routing_entries:4:quantity_of_nodes_for_each_distance_to_cluster_head:17,33,4
+XXX inconsistency found on node  16
+XXX inconsistency found on node  29
+XXX inconsistency found on node  30
+XXX inconsistency found on node  41
+time:20:quantity_of_sent_beacons:54:edges_inconsistency:17:added_edges:0:removed_edges:0:used_colors_without_loners:1:lone_nodes:4:deviation_of_clusters:0.708932:amplitude_of_clusters:2.860900:average_of_clusters:17.934922:cluster_heads_without_loners:13:inconsistent_routing_entries:4:quantity_of_nodes_for_each_distance_to_cluster_head:17,33,4
+XXX inconsistency found on node  16
+XXX inconsistency found on node  29
+XXX inconsistency found on node  30
+XXX inconsistency found on node  41
+time:30:quantity_of_sent_beacons:54:edges_inconsistency:17:added_edges:0:removed_edges:0:used_colors_without_loners:1:lone_nodes:4:deviation_of_clusters:0.709176:amplitude_of_clusters:2.865451:average_of_clusters:17.934815:cluster_heads_without_loners:13:inconsistent_routing_entries:4:quantity_of_nodes_for_each_distance_to_cluster_head:17,33,4
+XXX inconsistency found on node  16
+XXX inconsistency found on node  29
+XXX inconsistency found on node  30
+XXX inconsistency found on node  41
+time:40:quantity_of_sent_beacons:54:edges_inconsistency:17:added_edges:0:removed_edges:0:used_colors_without_loners:1:lone_nodes:4:deviation_of_clusters:0.709542:amplitude_of_clusters:2.870001:average_of_clusters:17.934455:cluster_heads_without_loners:13:inconsistent_routing_entries:4:quantity_of_nodes_for_each_distance_to_cluster_head:17,33,4
+XXX inconsistency found on node  16
+XXX inconsistency found on node  29
+XXX inconsistency found on node  30
+XXX inconsistency found on node  41
+time:50:quantity_of_sent_beacons:55:edges_inconsistency:17:added_edges:0:removed_edges:0:used_colors_without_loners:1:lone_nodes:4:deviation_of_clusters:0.709928:amplitude_of_clusters:2.874551:average_of_clusters:17.934096:cluster_heads_without_loners:13:inconsistent_routing_entries:4:quantity_of_nodes_for_each_distance_to_cluster_head:17,33,4
+XXX inconsistency found on node  16
+XXX inconsistency found on node  29
+XXX inconsistency found on node  30
+XXX inconsistency found on node  41
+time:60:quantity_of_sent_beacons:55:edges_inconsistency:17:added_edges:0:removed_edges:0:used_colors_without_loners:1:lone_nodes:4:deviation_of_clusters:0.709930:amplitude_of_clusters:2.879101:average_of_clusters:17.933762:cluster_heads_without_loners:13:inconsistent_routing_entries:4:quantity_of_nodes_for_each_distance_to_cluster_head:17,33,4
+XXX inconsistency found on node  16
+XXX inconsistency found on node  29
+XXX inconsistency found on node  30
+XXX inconsistency found on node  41
+time:70:quantity_of_sent_beacons:55:edges_inconsistency:17:added_edges:0:removed_edges:0:used_colors_without_loners:1:lone_nodes:4:deviation_of_clusters:0.709920:amplitude_of_clusters:2.881880:average_of_clusters:17.933562:cluster_heads_without_loners:13:inconsistent_routing_entries:4:quantity_of_nodes_for_each_distance_to_cluster_head:17,33,4
+XXX inconsistency found on node  16
+XXX inconsistency found on node  29
+XXX inconsistency found on node  30
+XXX inconsistency found on node  41
+time:80:quantity_of_sent_beacons:55:edges_inconsistency:17:added_edges:0:removed_edges:0:used_colors_without_loners:1:lone_nodes:4:deviation_of_clusters:0.709880:amplitude_of_clusters:2.884632:average_of_clusters:17.933267:cluster_heads_without_loners:13:inconsistent_routing_entries:4:quantity_of_nodes_for_each_distance_to_cluster_head:17,33,4
+XXX inconsistency found on node  16
+XXX inconsistency found on node  29
+XXX inconsistency found on node  30
+XXX inconsistency found on node  41
+time:90:quantity_of_sent_beacons:55:edges_inconsistency:17:added_edges:0:removed_edges:0:used_colors_without_loners:1:lone_nodes:4:deviation_of_clusters:0.710070:amplitude_of_clusters:2.887384:average_of_clusters:17.933519:cluster_heads_without_loners:13:inconsistent_routing_entries:4:quantity_of_nodes_for_each_distance_to_cluster_head:17,33,4
+XXX inconsistency found on node  29
+XXX inconsistency found on node  30
+XXX inconsistency found on node  31
+XXX inconsistency found on node  41
+XXX inconsistency found on node  48
+time:100:quantity_of_sent_beacons:108:edges_inconsistency:9:added_edges:25:removed_edges:9:used_colors_without_loners:1:lone_nodes:6:deviation_of_clusters:0.679428:amplitude_of_clusters:2.676250:average_of_clusters:17.973986:cluster_heads_without_loners:11:inconsistent_routing_entries:5:quantity_of_nodes_for_each_distance_to_cluster_head:17,29,8
+XXX inconsistency found on node  29
+XXX inconsistency found on node  30
+XXX inconsistency found on node  31
+XXX inconsistency found on node  41
+XXX inconsistency found on node  48
+time:110:quantity_of_sent_beacons:108:edges_inconsistency:9:added_edges:0:removed_edges:0:used_colors_without_loners:1:lone_nodes:6:deviation_of_clusters:0.679267:amplitude_of_clusters:2.676197:average_of_clusters:17.974643:cluster_heads_without_loners:11:inconsistent_routing_entries:5:quantity_of_nodes_for_each_distance_to_cluster_head:17,29,8
+XXX inconsistency found on node  29
+XXX inconsistency found on node  30
+XXX inconsistency found on node  31
+XXX inconsistency found on node  41
+XXX inconsistency found on node  48
+time:120:quantity_of_sent_beacons:108:edges_inconsistency:9:added_edges:0:removed_edges:0:used_colors_without_loners:1:lone_nodes:6:deviation_of_clusters:0.678697:amplitude_of_clusters:2.672755:average_of_clusters:17.974692:cluster_heads_without_loners:11:inconsistent_routing_entries:5:quantity_of_nodes_for_each_distance_to_cluster_head:17,29,8
+XXX inconsistency found on node  29
+XXX inconsistency found on node  30
+XXX inconsistency found on node  31
+XXX inconsistency found on node  41
+XXX inconsistency found on node  48
+time:130:quantity_of_sent_beacons:108:edges_inconsistency:9:added_edges:0:removed_edges:0:used_colors_without_loners:1:lone_nodes:6:deviation_of_clusters:0.678019:amplitude_of_clusters:2.670051:average_of_clusters:17.974506:cluster_heads_without_loners:11:inconsistent_routing_entries:5:quantity_of_nodes_for_each_distance_to_cluster_head:17,29,8
+XXX inconsistency found on node  29
+XXX inconsistency found on node  30
+XXX inconsistency found on node  31
+XXX inconsistency found on node  41
+XXX inconsistency found on node  48
+time:140:quantity_of_sent_beacons:108:edges_inconsistency:9:added_edges:0:removed_edges:0:used_colors_without_loners:1:lone_nodes:6:deviation_of_clusters:0.677349:amplitude_of_clusters:2.667348:average_of_clusters:17.974320:cluster_heads_without_loners:11:inconsistent_routing_entries:5:quantity_of_nodes_for_each_distance_to_cluster_head:17,29,8
+XXX inconsistency found on node  29
+XXX inconsistency found on node  30
+XXX inconsistency found on node  31
+XXX inconsistency found on node  41
+XXX inconsistency found on node  48
+time:150:quantity_of_sent_beacons:109:edges_inconsistency:9:added_edges:0:removed_edges:0:used_colors_without_loners:1:lone_nodes:6:deviation_of_clusters:0.677121:amplitude_of_clusters:2.668103:average_of_clusters:17.974203:cluster_heads_without_loners:10:inconsistent_routing_entries:5:quantity_of_nodes_for_each_distance_to_cluster_head:16,30,8
+XXX inconsistency found on node  29
+XXX inconsistency found on node  30
+XXX inconsistency found on node  31
+XXX inconsistency found on node  41
+XXX inconsistency found on node  48
+time:160:quantity_of_sent_beacons:109:edges_inconsistency:9:added_edges:0:removed_edges:0:used_colors_without_loners:1:lone_nodes:6:deviation_of_clusters:0.677064:amplitude_of_clusters:2.675182:average_of_clusters:17.973997:cluster_heads_without_loners:10:inconsistent_routing_entries:5:quantity_of_nodes_for_each_distance_to_cluster_head:16,30,8
+XXX inconsistency found on node  29
+XXX inconsistency found on node  30
+XXX inconsistency found on node  31
+XXX inconsistency found on node  41
+XXX inconsistency found on node  48
+time:170:quantity_of_sent_beacons:109:edges_inconsistency:9:added_edges:0:removed_edges:0:used_colors_without_loners:1:lone_nodes:6:deviation_of_clusters:0.676998:amplitude_of_clusters:2.682262:average_of_clusters:17.973813:cluster_heads_without_loners:10:inconsistent_routing_entries:5:quantity_of_nodes_for_each_distance_to_cluster_head:16,30,8
+XXX inconsistency found on node  29
+XXX inconsistency found on node  30
+XXX inconsistency found on node  31
+XXX inconsistency found on node  41
+XXX inconsistency found on node  48
+time:180:quantity_of_sent_beacons:109:edges_inconsistency:9:added_edges:0:removed_edges:0:used_colors_without_loners:1:lone_nodes:6:deviation_of_clusters:0.676859:amplitude_of_clusters:2.685200:average_of_clusters:17.973867:cluster_heads_without_loners:10:inconsistent_routing_entries:5:quantity_of_nodes_for_each_distance_to_cluster_head:16,30,8
+XXX inconsistency found on node  29
+XXX inconsistency found on node  30
+XXX inconsistency found on node  31
+XXX inconsistency found on node  41
+XXX inconsistency found on node  48
+time:190:quantity_of_sent_beacons:109:edges_inconsistency:9:added_edges:0:removed_edges:0:used_colors_without_loners:1:lone_nodes:6:deviation_of_clusters:0.676691:amplitude_of_clusters:2.685200:average_of_clusters:17.973827:cluster_heads_without_loners:10:inconsistent_routing_entries:5:quantity_of_nodes_for_each_distance_to_cluster_head:16,30,8
+XXX inconsistency found on node  41
+time:200:quantity_of_sent_beacons:162:edges_inconsistency:11:added_edges:8:removed_edges:10:used_colors_without_loners:2:lone_nodes:6:deviation_of_clusters:0.640126,0.113341:amplitude_of_clusters:2.461788,0.226683:average_of_clusters:18.024264,16.307859:cluster_heads_without_loners:13:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:19,30,5
+XXX inconsistency found on node  41
+time:210:quantity_of_sent_beacons:162:edges_inconsistency:11:added_edges:0:removed_edges:0:used_colors_without_loners:2:lone_nodes:6:deviation_of_clusters:0.639968,0.110225:amplitude_of_clusters:2.462622,0.220450:average_of_clusters:18.024023,16.307817:cluster_heads_without_loners:13:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:19,30,5
+XXX inconsistency found on node  41
+time:220:quantity_of_sent_beacons:162:edges_inconsistency:11:added_edges:0:removed_edges:0:used_colors_without_loners:2:lone_nodes:6:deviation_of_clusters:0.639921,0.104645:amplitude_of_clusters:2.463455,0.209289:average_of_clusters:18.023659,16.305311:cluster_heads_without_loners:13:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:19,30,5
+XXX inconsistency found on node  41
+time:230:quantity_of_sent_beacons:162:edges_inconsistency:11:added_edges:0:removed_edges:0:used_colors_without_loners:2:lone_nodes:6:deviation_of_clusters:0.639879,0.099064:amplitude_of_clusters:2.464289,0.198129:average_of_clusters:18.023276,16.302806:cluster_heads_without_loners:13:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:19,30,5
+XXX inconsistency found on node  41
+time:240:quantity_of_sent_beacons:163:edges_inconsistency:11:added_edges:0:removed_edges:0:used_colors_without_loners:2:lone_nodes:6:deviation_of_clusters:0.639844,0.098791:amplitude_of_clusters:2.465122,0.197583:average_of_clusters:18.022855,16.305608:cluster_heads_without_loners:13:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:19,30,5
+XXX inconsistency found on node  41
+time:250:quantity_of_sent_beacons:163:edges_inconsistency:11:added_edges:0:removed_edges:0:used_colors_without_loners:2:lone_nodes:6:deviation_of_clusters:0.640000,0.098702:amplitude_of_clusters:2.465956,0.197405:average_of_clusters:18.023240,16.308594:cluster_heads_without_loners:13:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:19,30,5
+XXX inconsistency found on node  41
+time:260:quantity_of_sent_beacons:163:edges_inconsistency:11:added_edges:0:removed_edges:0:used_colors_without_loners:2:lone_nodes:6:deviation_of_clusters:0.640213,0.098613:amplitude_of_clusters:2.466789,0.197226:average_of_clusters:18.023681,16.311579:cluster_heads_without_loners:13:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:19,30,5
+XXX inconsistency found on node  41
+time:270:quantity_of_sent_beacons:163:edges_inconsistency:11:added_edges:0:removed_edges:0:used_colors_without_loners:2:lone_nodes:6:deviation_of_clusters:0.640446,0.097679:amplitude_of_clusters:2.467825,0.195359:average_of_clusters:18.023867,16.313721:cluster_heads_without_loners:13:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:19,30,5
+XXX inconsistency found on node  41
+time:280:quantity_of_sent_beacons:163:edges_inconsistency:11:added_edges:0:removed_edges:0:used_colors_without_loners:2:lone_nodes:6:deviation_of_clusters:0.641246,0.096142:amplitude_of_clusters:2.472583,0.192284:average_of_clusters:18.023564,16.315258:cluster_heads_without_loners:13:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:19,30,5
+time:290:quantity_of_sent_beacons:216:edges_inconsistency:5:added_edges:7:removed_edges:5:used_colors_without_loners:3:lone_nodes:6:deviation_of_clusters:0.625180,0.029711,0.094604:amplitude_of_clusters:2.209971,0.059423,0.189209:average_of_clusters:18.015608,17.234911,16.316796:cluster_heads_without_loners:12:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:18,32,4
+time:300:quantity_of_sent_beacons:216:edges_inconsistency:5:added_edges:0:removed_edges:0:used_colors_without_loners:3:lone_nodes:6:deviation_of_clusters:0.625302,0.030867,0.092825:amplitude_of_clusters:2.208657,0.061735,0.185649:average_of_clusters:18.015200,17.236067,16.318575:cluster_heads_without_loners:12:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:18,32,4
+time:310:quantity_of_sent_beacons:216:edges_inconsistency:5:added_edges:0:removed_edges:0:used_colors_without_loners:3:lone_nodes:6:deviation_of_clusters:0.625281,0.032489,0.079979:amplitude_of_clusters:2.207033,0.064978,0.159957:average_of_clusters:18.014705,17.237689,16.331421:cluster_heads_without_loners:12:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:18,32,4
+time:320:quantity_of_sent_beacons:216:edges_inconsistency:5:added_edges:0:removed_edges:0:used_colors_without_loners:3:lone_nodes:6:deviation_of_clusters:0.625270,0.034110,0.067133:amplitude_of_clusters:2.205409,0.068221,0.134265:average_of_clusters:18.014128,17.239310,16.344267:cluster_heads_without_loners:12:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:18,32,4
+time:330:quantity_of_sent_beacons:216:edges_inconsistency:5:added_edges:0:removed_edges:0:used_colors_without_loners:3:lone_nodes:6:deviation_of_clusters:0.625332,0.037238,0.054287:amplitude_of_clusters:2.202754,0.074476,0.108573:average_of_clusters:18.013391,17.239508,16.357113:cluster_heads_without_loners:12:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:18,32,4
+time:340:quantity_of_sent_beacons:217:edges_inconsistency:4:added_edges:1:removed_edges:0:used_colors_without_loners:3:lone_nodes:6:deviation_of_clusters:0.625379,0.040561,0.042792:amplitude_of_clusters:2.200880,0.081122,0.085584:average_of_clusters:18.012350,17.239521,16.371311:cluster_heads_without_loners:12:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:18,32,4
+time:350:quantity_of_sent_beacons:217:edges_inconsistency:4:added_edges:0:removed_edges:0:used_colors_without_loners:3:lone_nodes:6:deviation_of_clusters:0.625400,0.043884,0.031613:amplitude_of_clusters:2.204256,0.087768,0.063226:average_of_clusters:18.011213,17.239535,16.385824:cluster_heads_without_loners:12:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:18,32,4
+time:360:quantity_of_sent_beacons:217:edges_inconsistency:4:added_edges:0:removed_edges:0:used_colors_without_loners:3:lone_nodes:6:deviation_of_clusters:0.625619,0.044563,0.030257:amplitude_of_clusters:2.207632,0.089126,0.060514:average_of_clusters:18.010501,17.236982,16.390513:cluster_heads_without_loners:12:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:18,32,4
+time:370:quantity_of_sent_beacons:217:edges_inconsistency:4:added_edges:0:removed_edges:0:used_colors_without_loners:3:lone_nodes:6:deviation_of_clusters:0.625438,0.045089,0.031172:amplitude_of_clusters:2.211008,0.090178,0.062344:average_of_clusters:18.010290,17.234283,16.388281:cluster_heads_without_loners:12:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:18,32,4
+time:380:quantity_of_sent_beacons:217:edges_inconsistency:4:added_edges:0:removed_edges:0:used_colors_without_loners:3:lone_nodes:6:deviation_of_clusters:0.625171,0.045615,0.031743:amplitude_of_clusters:2.214384,0.091231,0.063485:average_of_clusters:18.010078,17.231584,16.385705:cluster_heads_without_loners:12:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:18,32,4
+time:390:quantity_of_sent_beacons:270:edges_inconsistency:1:added_edges:4:removed_edges:1:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.376774,0.044713,0.271636,0.032313:amplitude_of_clusters:1.244802,0.089426,0.841748,0.064627:average_of_clusters:18.288633,17.230313,17.062654,16.383128:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:400:quantity_of_sent_beacons:270:edges_inconsistency:1:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.376579,0.043627,0.270457,0.032884:amplitude_of_clusters:1.252901,0.087253,0.840086,0.065768:average_of_clusters:18.288377,17.229227,17.062186,16.380552:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:410:quantity_of_sent_beacons:270:edges_inconsistency:1:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.376408,0.042540,0.269280,0.033455:amplitude_of_clusters:1.261001,0.085080,0.838423,0.066909:average_of_clusters:18.288120,17.228140,17.062031,16.377975:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:420:quantity_of_sent_beacons:270:edges_inconsistency:1:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.376175,0.043000,0.268264,0.034528:amplitude_of_clusters:1.269100,0.086000,0.837206,0.069055:average_of_clusters:18.288066,17.225507,17.061690,16.375901:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:430:quantity_of_sent_beacons:270:edges_inconsistency:1:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.376172,0.043526,0.268107,0.035608:amplitude_of_clusters:1.274670,0.087052,0.836769,0.071217:average_of_clusters:18.287882,17.222808,17.060506,16.373835:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:440:quantity_of_sent_beacons:271:edges_inconsistency:1:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.376231,0.044052,0.268445,0.036689:amplitude_of_clusters:1.276365,0.088104,0.836333,0.073378:average_of_clusters:18.287862,17.220109,17.059613,16.371769:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:450:quantity_of_sent_beacons:271:edges_inconsistency:1:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.376335,0.047124,0.268465,0.037770:amplitude_of_clusters:1.278060,0.094248,0.835896,0.075539:average_of_clusters:18.287674,17.222924,17.059126,16.369702:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:460:quantity_of_sent_beacons:271:edges_inconsistency:1:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.376526,0.050391,0.268083,0.038850:amplitude_of_clusters:1.279756,0.100781,0.835459,0.077701:average_of_clusters:18.287288,17.226191,17.057676,16.367636:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:470:quantity_of_sent_beacons:271:edges_inconsistency:1:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.376611,0.053657,0.267712,0.039931:amplitude_of_clusters:1.281451,0.107314,0.835023,0.079862:average_of_clusters:18.286558,17.229457,17.056212,16.365570:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:480:quantity_of_sent_beacons:276:edges_inconsistency:1:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.377203,0.055356,0.267356,0.041012:amplitude_of_clusters:1.283147,0.110712,0.834586,0.082023:average_of_clusters:18.285594,17.234291,17.055367,16.363503:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:490:quantity_of_sent_beacons:324:edges_inconsistency:1:added_edges:0:removed_edges:2:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.378284,0.056985,0.267227,0.042092:amplitude_of_clusters:1.284842,0.113970,0.834149,0.084185:average_of_clusters:18.285030,17.239195,17.055236,16.361437:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:500:quantity_of_sent_beacons:324:edges_inconsistency:1:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.379220,0.058614,0.267106,0.043173:amplitude_of_clusters:1.286537,0.117228,0.833713,0.086346:average_of_clusters:18.284431,17.244099,17.055105,16.359371:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:510:quantity_of_sent_beacons:324:edges_inconsistency:1:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.379457,0.061944,0.267207,0.044409:amplitude_of_clusters:1.288233,0.123888,0.834674,0.088818:average_of_clusters:18.284163,17.241256,17.055165,16.357460:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:520:quantity_of_sent_beacons:324:edges_inconsistency:1:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.379998,0.065202,0.267975,0.049143:amplitude_of_clusters:1.289928,0.130404,0.835899,0.098286:average_of_clusters:18.284457,17.237998,17.055156,16.359046:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:530:quantity_of_sent_beacons:325:edges_inconsistency:1:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.380608,0.068460,0.268919,0.053877:amplitude_of_clusters:1.291624,0.136919,0.837125,0.107754:average_of_clusters:18.284583,17.234740,17.055114,16.360633:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:540:quantity_of_sent_beacons:325:edges_inconsistency:1:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.381195,0.070154,0.269366,0.058611:amplitude_of_clusters:1.296046,0.140308,0.838350,0.117222:average_of_clusters:18.284054,17.233046,17.054332,16.362220:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:550:quantity_of_sent_beacons:325:edges_inconsistency:1:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.381618,0.071778,0.269844,0.059223:amplitude_of_clusters:1.303909,0.143557,0.839576,0.118447:average_of_clusters:18.283419,17.231422,17.053396,16.359686:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:560:quantity_of_sent_beacons:325:edges_inconsistency:1:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.382054,0.073403,0.270328,0.059580:amplitude_of_clusters:1.311491,0.146805,0.840801,0.119161:average_of_clusters:18.282801,17.229797,17.052460,16.356896:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:570:quantity_of_sent_beacons:325:edges_inconsistency:1:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.382132,0.075027,0.271075,0.059937:amplitude_of_clusters:1.313200,0.150054,0.842027,0.119875:average_of_clusters:18.281913,17.228173,17.051319,16.354106:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:580:quantity_of_sent_beacons:378:edges_inconsistency:0:added_edges:0:removed_edges:1:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.381950,0.076651,0.272165,0.060294:amplitude_of_clusters:1.313200,0.153302,0.843252,0.120589:average_of_clusters:18.280664,17.226549,17.049722,16.351316:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:590:quantity_of_sent_beacons:378:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.381904,0.078275,0.273270,0.060651:amplitude_of_clusters:1.313200,0.156551,0.844478,0.121303:average_of_clusters:18.279618,17.224925,17.048074,16.348526:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:600:quantity_of_sent_beacons:378:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.382431,0.078400,0.273479,0.061008:amplitude_of_clusters:1.311948,0.156800,0.845703,0.122017:average_of_clusters:18.278385,17.224800,17.047354,16.345736:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:610:quantity_of_sent_beacons:378:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.383268,0.078400,0.273513,0.061365:amplitude_of_clusters:1.313477,0.156800,0.846929,0.122731:average_of_clusters:18.277229,17.224800,17.047161,16.342946:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:620:quantity_of_sent_beacons:378:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.384186,0.078400,0.273552,0.061722:amplitude_of_clusters:1.315417,0.156800,0.848154,0.123445:average_of_clusters:18.276169,17.224800,17.046969,16.340156:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:630:quantity_of_sent_beacons:379:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.384969,0.078400,0.273596,0.063157:amplitude_of_clusters:1.317357,0.156800,0.849380,0.126314:average_of_clusters:18.275994,17.224800,17.046777,16.338443:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:640:quantity_of_sent_beacons:379:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.385802,0.078400,0.274645,0.063483:amplitude_of_clusters:1.319296,0.156800,0.850605,0.126967:average_of_clusters:18.276135,17.224800,17.045760,16.338117:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:650:quantity_of_sent_beacons:379:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.386636,0.078400,0.275738,0.063153:amplitude_of_clusters:1.321236,0.156800,0.851831,0.126306:average_of_clusters:18.276238,17.224800,17.044713,16.338447:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:660:quantity_of_sent_beacons:379:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.387506,0.079967,0.277491,0.062822:amplitude_of_clusters:1.325510,0.159934,0.856636,0.125645:average_of_clusters:18.276021,17.223233,17.043189,16.338778:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:670:quantity_of_sent_beacons:379:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.388590,0.081598,0.279819,0.062492:amplitude_of_clusters:1.338331,0.163197,0.867478,0.124983:average_of_clusters:18.274760,17.221602,17.041493,16.339108:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:680:quantity_of_sent_beacons:432:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.389669,0.083230,0.282036,0.062161:amplitude_of_clusters:1.351151,0.166459,0.878321,0.124322:average_of_clusters:18.273532,17.219970,17.039990,16.339439:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:690:quantity_of_sent_beacons:432:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.389754,0.084855,0.282722,0.061830:amplitude_of_clusters:1.353158,0.169710,0.882000,0.123661:average_of_clusters:18.272459,17.218345,17.039716,16.339770:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:700:quantity_of_sent_beacons:432:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.389714,0.086480,0.282637,0.061500:amplitude_of_clusters:1.353350,0.172960,0.882000,0.123000:average_of_clusters:18.271429,17.216720,17.039747,16.340100:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:710:quantity_of_sent_beacons:432:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.389788,0.088105,0.282558,0.061169:amplitude_of_clusters:1.353542,0.176211,0.882000,0.122339:average_of_clusters:18.270472,17.215095,17.039777,16.340431:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:720:quantity_of_sent_beacons:433:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.389730,0.089714,0.282817,0.060839:amplitude_of_clusters:1.353495,0.179428,0.881688,0.121677:average_of_clusters:18.269702,17.213486,17.039287,16.340761:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:730:quantity_of_sent_beacons:433:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.389482,0.091321,0.283691,0.060508:amplitude_of_clusters:1.352306,0.182643,0.880859,0.121016:average_of_clusters:18.268965,17.211879,17.038033,16.341092:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:740:quantity_of_sent_beacons:433:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.389160,0.092929,0.284588,0.060177:amplitude_of_clusters:1.351117,0.185858,0.880029,0.120355:average_of_clusters:18.268166,17.210271,17.036779,16.341423:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:750:quantity_of_sent_beacons:433:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.389436,0.091599,0.284646,0.059847:amplitude_of_clusters:1.352625,0.183197,0.879962,0.119694:average_of_clusters:18.267709,17.211601,17.036203,16.341753:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:760:quantity_of_sent_beacons:433:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.389860,0.089918,0.284858,0.059516:amplitude_of_clusters:1.353466,0.179837,0.879916,0.119033:average_of_clusters:18.267512,17.213282,17.035984,16.342084:cluster_heads_without_loners:11:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:770:quantity_of_sent_beacons:486:edges_inconsistency:0:added_edges:2:removed_edges:2:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.372070,0.088238,0.302510,0.059186:amplitude_of_clusters:1.244566,0.176477,0.914833,0.118371:average_of_clusters:18.290661,17.214962,17.077764,16.342414:cluster_heads_without_loners:12:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:18,32,4
+time:780:quantity_of_sent_beacons:486:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.372021,0.089755,0.302825,0.058855:amplitude_of_clusters:1.246476,0.179510,0.913162,0.117710:average_of_clusters:18.289954,17.213445,17.077660,16.342745:cluster_heads_without_loners:12:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:18,32,4
+time:790:quantity_of_sent_beacons:486:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.371916,0.091346,0.302934,0.062364:amplitude_of_clusters:1.248391,0.182692,0.911491,0.124728:average_of_clusters:18.289193,17.211854,17.077670,16.344862:cluster_heads_without_loners:12:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:18,32,4
+time:800:quantity_of_sent_beacons:486:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.371739,0.092937,0.303045,0.067416:amplitude_of_clusters:1.250306,0.185874,0.909821,0.134831:average_of_clusters:18.288360,17.210263,17.077681,16.348112:cluster_heads_without_loners:12:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:18,32,4
+time:810:quantity_of_sent_beacons:486:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.371592,0.089675,0.302947,0.070540:amplitude_of_clusters:1.250469,0.179350,0.908150,0.141081:average_of_clusters:18.287355,17.207653,17.077748,16.349435:cluster_heads_without_loners:12:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:18,32,4
+time:820:quantity_of_sent_beacons:487:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.371546,0.085838,0.302588,0.069508:amplitude_of_clusters:1.248629,0.171675,0.906479,0.139017:average_of_clusters:18.286467,17.204906,17.077444,16.346601:cluster_heads_without_loners:12:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:18,32,4
+time:830:quantity_of_sent_beacons:487:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.371510,0.082000,0.302219,0.068476:amplitude_of_clusters:1.246789,0.164001,0.904809,0.136953:average_of_clusters:18.285584,17.202159,17.077123,16.343768:cluster_heads_without_loners:12:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:18,32,4
+time:840:quantity_of_sent_beacons:487:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.371337,0.078163,0.302780,0.067723:amplitude_of_clusters:1.245616,0.156326,0.908474,0.135447:average_of_clusters:18.284400,17.199412,17.076570,16.341213:cluster_heads_without_loners:12:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:18,32,4
+time:850:quantity_of_sent_beacons:487:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.371095,0.074326,0.304131,0.067048:amplitude_of_clusters:1.244554,0.148652,0.916237,0.134097:average_of_clusters:18.283049,17.196665,17.076222,16.338736:cluster_heads_without_loners:12:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:18,32,4
+time:860:quantity_of_sent_beacons:487:edges_inconsistency:0:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.370865,0.070489,0.305503,0.066373:amplitude_of_clusters:1.243493,0.140977,0.924000,0.132746:average_of_clusters:18.281698,17.193917,17.075874,16.336259:cluster_heads_without_loners:12:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:18,32,4
+XXX inconsistency found on node  40
+time:870:quantity_of_sent_beacons:540:edges_inconsistency:2:added_edges:2:removed_edges:4:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.354981,0.069741,0.325510,0.067720:amplitude_of_clusters:1.174954,0.139481,1.029590,0.135440:average_of_clusters:18.301930,17.194259,17.117463,16.335804:cluster_heads_without_loners:11:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+XXX inconsistency found on node  40
+time:880:quantity_of_sent_beacons:540:edges_inconsistency:2:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.354180,0.069196,0.325158,0.070051:amplitude_of_clusters:1.170993,0.138391,1.031306,0.140103:average_of_clusters:18.300452,17.194804,17.116572,16.336333:cluster_heads_without_loners:11:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+XXX inconsistency found on node  40
+time:890:quantity_of_sent_beacons:540:edges_inconsistency:2:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.353398,0.068651,0.324940,0.072383:amplitude_of_clusters:1.167032,0.137301,1.034045,0.144765:average_of_clusters:18.298974,17.195349,17.115767,16.336863:cluster_heads_without_loners:11:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+XXX inconsistency found on node  40
+time:900:quantity_of_sent_beacons:540:edges_inconsistency:2:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.352827,0.068600,0.324752,0.076360:amplitude_of_clusters:1.161947,0.137200,1.036783,0.152719:average_of_clusters:18.297608,17.195400,17.115671,16.335040:cluster_heads_without_loners:11:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+XXX inconsistency found on node  40
+time:910:quantity_of_sent_beacons:540:edges_inconsistency:2:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.352428,0.068600,0.324626,0.079353:amplitude_of_clusters:1.156564,0.137200,1.039521,0.158705:average_of_clusters:18.296093,17.195400,17.116150,16.332047:cluster_heads_without_loners:11:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+XXX inconsistency found on node  40
+time:920:quantity_of_sent_beacons:541:edges_inconsistency:2:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.352052,0.068600,0.324508,0.082346:amplitude_of_clusters:1.151181,0.137200,1.042259,0.164691:average_of_clusters:18.294576,17.195400,17.116630,16.329054:cluster_heads_without_loners:11:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+XXX inconsistency found on node  40
+time:930:quantity_of_sent_beacons:541:edges_inconsistency:2:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.351610,0.070070,0.324554,0.081412:amplitude_of_clusters:1.146909,0.140140,1.044997,0.162823:average_of_clusters:18.292958,17.193930,17.117299,16.328499:cluster_heads_without_loners:11:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+XXX inconsistency found on node  40
+time:940:quantity_of_sent_beacons:541:edges_inconsistency:2:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.351193,0.071728,0.324508,0.077759:amplitude_of_clusters:1.141354,0.143456,1.047735,0.155518:average_of_clusters:18.290366,17.192272,17.117513,16.328205:cluster_heads_without_loners:11:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+XXX inconsistency found on node  40
+time:950:quantity_of_sent_beacons:541:edges_inconsistency:2:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.350964,0.073386,0.324470,0.074107:amplitude_of_clusters:1.135581,0.146773,1.050474,0.148213:average_of_clusters:18.287923,17.190614,17.117730,16.327911:cluster_heads_without_loners:11:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+XXX inconsistency found on node  40
+time:960:quantity_of_sent_beacons:550:edges_inconsistency:3:added_edges:0:removed_edges:1:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.351071,0.075045,0.324189,0.072219:amplitude_of_clusters:1.134218,0.150089,1.053212,0.144437:average_of_clusters:18.286454,17.188955,17.117727,16.329381:cluster_heads_without_loners:11:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:17,32,5
+time:970:quantity_of_sent_beacons:594:edges_inconsistency:2:added_edges:7:removed_edges:8:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.351027,0.076703,0.323487,0.070539:amplitude_of_clusters:1.137746,0.153406,1.055950,0.141079:average_of_clusters:18.286248,17.187297,17.116295,16.331061:cluster_heads_without_loners:13:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:19,31,4
+time:980:quantity_of_sent_beacons:594:edges_inconsistency:2:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.350858,0.078361,0.322880,0.068860:amplitude_of_clusters:1.141274,0.156722,1.058688,0.137720:average_of_clusters:18.286202,17.185639,17.114781,16.332740:cluster_heads_without_loners:13:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:19,31,4
+time:990:quantity_of_sent_beacons:594:edges_inconsistency:2:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.351655,0.080779,0.322709,0.071145:amplitude_of_clusters:1.144802,0.161559,1.061426,0.142290:average_of_clusters:18.284910,17.181734,17.114045,16.330455:cluster_heads_without_loners:13:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:19,31,4
+time:1000:quantity_of_sent_beacons:594:edges_inconsistency:2:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.352249,0.083161,0.323202,0.074156:amplitude_of_clusters:1.148330,0.166321,1.064165,0.148313:average_of_clusters:18.282820,17.177719,17.114108,16.327444:cluster_heads_without_loners:13:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:19,31,4
+time:1010:quantity_of_sent_beacons:595:edges_inconsistency:2:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.352877,0.085542,0.323589,0.077168:amplitude_of_clusters:1.151858,0.171084,1.066903,0.154336:average_of_clusters:18.280730,17.173705,17.114332,16.324432:cluster_heads_without_loners:13:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:19,31,4
+time:1020:quantity_of_sent_beacons:595:edges_inconsistency:2:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.353254,0.085007,0.323934,0.080179:amplitude_of_clusters:1.155386,0.170014,1.066839,0.160359:average_of_clusters:18.278951,17.172607,17.113938,16.321421:cluster_heads_without_loners:13:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:19,31,4
+time:1030:quantity_of_sent_beacons:595:edges_inconsistency:2:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.353087,0.084190,0.324048,0.083191:amplitude_of_clusters:1.154462,0.168381,1.064371,0.166381:average_of_clusters:18.276425,17.171790,17.112603,16.318409:cluster_heads_without_loners:13:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:19,31,4
+time:1040:quantity_of_sent_beacons:595:edges_inconsistency:2:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.352916,0.083374,0.324168,0.086202:amplitude_of_clusters:1.151966,0.166748,1.061904,0.172404:average_of_clusters:18.273751,17.170974,17.110874,16.315398:cluster_heads_without_loners:13:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:19,31,4
+time:1050:quantity_of_sent_beacons:595:edges_inconsistency:2:added_edges:0:removed_edges:0:used_colors_without_loners:4:lone_nodes:6:deviation_of_clusters:0.353605,0.085582,0.323964,0.089934:amplitude_of_clusters:1.153094,0.171164,1.059437,0.179868:average_of_clusters:18.271771,17.167132,17.109390,16.312141:cluster_heads_without_loners:13:inconsistent_routing_entries:0:quantity_of_nodes_for_each_distance_to_cluster_head:19,31,4
+XXX inconsistency found on node  41
+time:1060:quantity_of_sent_beacons:648:edges_inconsistency:4:added_edges:3:removed_edges:3:used_colors_without_loners:5:lone_nodes:5:deviation_of_clusters:0.350677,0.100289,0.087993,0.324037,0.094921:amplitude_of_clusters:1.156697,0.200578,0.175986,1.058400,0.189842:average_of_clusters:18.284068,17.724003,17.163088,17.108229,16.308235:cluster_heads_without_loners:14:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:19,31,4
+XXX inconsistency found on node  41
+time:1070:quantity_of_sent_beacons:648:edges_inconsistency:4:added_edges:0:removed_edges:0:used_colors_without_loners:5:lone_nodes:5:deviation_of_clusters:0.351054,0.100384,0.090404,0.324570,0.099907:amplitude_of_clusters:1.160300,0.200769,0.180807,1.058400,0.199815:average_of_clusters:18.282149,17.717527,17.159044,17.106750,16.304329:cluster_heads_without_loners:14:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:19,31,4
+XXX inconsistency found on node  41
+time:1080:quantity_of_sent_beacons:648:edges_inconsistency:4:added_edges:0:removed_edges:0:used_colors_without_loners:5:lone_nodes:5:deviation_of_clusters:0.351678,0.099184,0.089907,0.324299,0.104894:amplitude_of_clusters:1.165034,0.198367,0.179815,1.057671,0.209788:average_of_clusters:18.280124,17.712407,17.157907,17.105987,16.300423:cluster_heads_without_loners:14:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:19,31,4
+XXX inconsistency found on node  41
+time:1090:quantity_of_sent_beacons:648:edges_inconsistency:4:added_edges:0:removed_edges:0:used_colors_without_loners:5:lone_nodes:5:deviation_of_clusters:0.352625,0.098028,0.089091,0.324034,0.109880:amplitude_of_clusters:1.169808,0.196056,0.178182,1.058364,0.219761:average_of_clusters:18.278086,17.707477,17.157091,17.105378,16.296517:cluster_heads_without_loners:14:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:19,31,4
+XXX inconsistency found on node  41
+time:1100:quantity_of_sent_beacons:648:edges_inconsistency:4:added_edges:0:removed_edges:0:used_colors_without_loners:5:lone_nodes:5:deviation_of_clusters:0.353606,0.096872,0.088274,0.323783,0.114867:amplitude_of_clusters:1.174581,0.193745,0.176549,1.059057,0.229734:average_of_clusters:18.276087,17.702547,17.156274,17.104770,16.292611:cluster_heads_without_loners:14:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:19,31,4
+XXX inconsistency found on node  41
+time:1110:quantity_of_sent_beacons:649:edges_inconsistency:4:added_edges:0:removed_edges:0:used_colors_without_loners:5:lone_nodes:5:deviation_of_clusters:0.353181,0.095717,0.087458,0.323227,0.119854:amplitude_of_clusters:1.178244,0.191433,0.174916,1.059342,0.239707:average_of_clusters:18.275593,17.697617,17.155458,17.104321,16.288705:cluster_heads_without_loners:14:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:19,31,4
+XXX inconsistency found on node  41
+time:1120:quantity_of_sent_beacons:649:edges_inconsistency:4:added_edges:0:removed_edges:0:used_colors_without_loners:5:lone_nodes:5:deviation_of_clusters:0.351935,0.094561,0.086641,0.321933,0.121337:amplitude_of_clusters:1.177089,0.189122,0.173282,1.057386,0.242675:average_of_clusters:18.274822,17.692687,17.154641,17.104185,16.288302:cluster_heads_without_loners:14:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:19,31,4
+XXX inconsistency found on node  41
+time:1130:quantity_of_sent_beacons:649:edges_inconsistency:4:added_edges:0:removed_edges:0:used_colors_without_loners:5:lone_nodes:5:deviation_of_clusters:0.350495,0.093405,0.085825,0.320694,0.121488:amplitude_of_clusters:1.175934,0.186810,0.171649,1.055629,0.242977:average_of_clusters:18.273815,17.687757,17.153825,17.104066,16.289231:cluster_heads_without_loners:14:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:19,31,4
+XXX inconsistency found on node  41
+time:1140:quantity_of_sent_beacons:649:edges_inconsistency:4:added_edges:0:removed_edges:0:used_colors_without_loners:5:lone_nodes:5:deviation_of_clusters:0.350485,0.092250,0.085008,0.320803,0.121155:amplitude_of_clusters:1.181225,0.184499,0.170016,1.053871,0.242311:average_of_clusters:18.272822,17.682828,17.153008,17.103105,16.289677:cluster_heads_without_loners:14:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:19,31,4
+XXX inconsistency found on node  41
+time:1150:quantity_of_sent_beacons:649:edges_inconsistency:4:added_edges:0:removed_edges:0:used_colors_without_loners:5:lone_nodes:5:deviation_of_clusters:0.351632,0.092059,0.084192,0.321284,0.120000:amplitude_of_clusters:1.186760,0.184119,0.168383,1.052114,0.240000:average_of_clusters:18.271996,17.678863,17.152192,17.102235,16.289300:cluster_heads_without_loners:14:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:19,31,4
+XXX inconsistency found on node  41
+time:1160:quantity_of_sent_beacons:702:edges_inconsistency:1:added_edges:3:removed_edges:2:used_colors_without_loners:6:lone_nodes:5:deviation_of_clusters:0.266687,0.092179,0.369439,0.083375,0.321782,0.118844:amplitude_of_clusters:0.891097,0.184357,1.143997,0.166750,1.050356,0.237689:average_of_clusters:18.413910,17.675208,18.119137,17.151375,17.101365,16.288924:cluster_heads_without_loners:13:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:18,32,4
+XXX inconsistency found on node  41
+time:1170:quantity_of_sent_beacons:702:edges_inconsistency:1:added_edges:0:removed_edges:0:used_colors_without_loners:6:lone_nodes:5:deviation_of_clusters:0.267827,0.092298,0.369712,0.082930,0.322338,0.117689:amplitude_of_clusters:0.895429,0.184596,1.146457,0.165860,1.048599,0.235378:average_of_clusters:18.413785,17.671554,18.118637,17.150930,17.101040,16.288547:cluster_heads_without_loners:13:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:18,32,4
+XXX inconsistency found on node  41
+time:1180:quantity_of_sent_beacons:702:edges_inconsistency:1:added_edges:0:removed_edges:0:used_colors_without_loners:6:lone_nodes:5:deviation_of_clusters:0.269023,0.092417,0.369748,0.082522,0.323062,0.116533:amplitude_of_clusters:0.901853,0.184834,1.148918,0.165045,1.046841,0.233066:average_of_clusters:18.412839,17.667899,18.118278,17.150522,17.100659,16.288170:cluster_heads_without_loners:13:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:18,32,4
+XXX inconsistency found on node  41
+time:1190:quantity_of_sent_beacons:702:edges_inconsistency:1:added_edges:0:removed_edges:0:used_colors_without_loners:6:lone_nodes:5:deviation_of_clusters:0.270167,0.092536,0.369717,0.082115,0.323799,0.115378:amplitude_of_clusters:0.908277,0.185073,1.151378,0.164229,1.045084,0.230755:average_of_clusters:18.411815,17.664244,18.118150,17.150115,17.100279,16.287794:cluster_heads_without_loners:13:inconsistent_routing_entries:1:quantity_of_nodes_for_each_distance_to_cluster_head:18,32,4
+FINISH:number_of_cluster_heads_that_remained_X_turns:0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,1,1,0,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9:
+

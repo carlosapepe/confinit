@@ -1,0 +1,5 @@
+cat full_data_1.xml |grep 'mote_id="54"' |grep temp= |awk '{ print $5 }' |cut -c1-5 |sed -s 's/\=/="00.000"/g' > credeeeee
+
+cat full_data_1.xml |grep 'mote_id="54"' | grep temp= |sed -i 's/temp=/temp="00.00 "/g' | awk '{print $1 " " $2 " " $3 " " $4 " " $5 " " $7 " " $8 " " $9 " " $10 " " $11 }'
+
+cat full_data.xml |grep 'mote_id="1"' |wc -l
