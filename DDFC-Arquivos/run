@@ -1,0 +1,4 @@
+#!/bin/bash
+
+time R CMD BATCH myRCode.R R.out
+tail R.out
